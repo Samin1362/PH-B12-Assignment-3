@@ -1,9 +1,3 @@
-/** Problem -01 ( Divide the Asset ) */
-var area = 100;
-//write your code here
-
-console.log(area/2);
-
 /** Problem -02 ( Cycle or Laptop ) */
 var money = 9999;
 //write your code here
@@ -15,4 +9,3 @@ if (money >= 25000){
 } else {
   console.log("Chocolate");
 }
-
